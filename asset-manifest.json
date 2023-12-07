@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tabraiz06/NoteBookReact.git/static/css/main.23ca9d7f.css",
+    "main.js": "/tabraiz06/NoteBookReact.git/static/js/main.8d2d47e8.js",
+    "index.html": "/tabraiz06/NoteBookReact.git/index.html",
+    "main.23ca9d7f.css.map": "/tabraiz06/NoteBookReact.git/static/css/main.23ca9d7f.css.map",
+    "main.8d2d47e8.js.map": "/tabraiz06/NoteBookReact.git/static/js/main.8d2d47e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23ca9d7f.css",
+    "static/js/main.8d2d47e8.js"
+  ]
+}
